@@ -58,5 +58,35 @@ performance of Chat app
 * Security: JWB and Bcrypt is used to store the passwords 
 of users in encrypted format in Database.
 
-# Link
+# Working Demo
+*	Authentication
+ ![2-1](https://user-images.githubusercontent.com/88902668/170810614-239b9427-81cf-4f22-a32d-2f0eb14cf02a.png)
+ ![1-1](https://user-images.githubusercontent.com/88902668/170810617-231db96e-9c3e-4968-ab51-3b3783c73d5a.png)
+
+* Real Time Chatting with Typing Indicator
+ ![typing 3-8](https://user-images.githubusercontent.com/88902668/170810641-ee7ef069-ada5-49e7-8ea8-f6bb81b4c750.png)
+
+* Single Chat
+ ![3-5](https://user-images.githubusercontent.com/88902668/170810660-9feb2ad8-dd5e-4ca4-8601-c62fb9b13a36.png)
+ 
+* Search Users
+ ![3-4](https://user-images.githubusercontent.com/88902668/170810674-5eaf8f39-1046-410c-9bad-2b0dd3f468d8.png)
+
+* Create Group Chat and Email Sent
+ 
+ ![3-3](https://user-images.githubusercontent.com/88902668/170810711-86677401-3e9e-4408-ba6a-a4ccc591c5e2.png)
+ ![image](https://user-images.githubusercontent.com/88902668/170810869-816c3eb7-bd4d-4144-8122-e1e90d674160.png)
+
+* Update Group Chat 
+ ![3-6](https://user-images.githubusercontent.com/88902668/170810736-5ba33967-2ae7-4495-b27d-a619a47fb603.png)
+ ![3-7](https://user-images.githubusercontent.com/88902668/170810734-3e644057-ff3a-4d30-8e73-80000e1beea2.png)
+
+* Get Notification and User Info
+  ![3-11](https://user-images.githubusercontent.com/88902668/170810777-77b69c0c-1c3e-43c8-8f1f-22136d220845.png)
+  ![3-1](https://user-images.githubusercontent.com/88902668/170810798-d679512e-36ea-4c8e-a279-10a09d58c11e.png)
+
+ * Send Files
+   ![f1](https://user-images.githubusercontent.com/88902668/170810832-dc7b5fe1-d6bf-435f-9faa-47047db9eae9.png)
+   ![f2](https://user-images.githubusercontent.com/88902668/170810833-f7c0bb94-e826-4476-8e61-13fa1acff144.png)
+   ![fe](https://user-images.githubusercontent.com/88902668/170810831-ad7cf48a-0b2c-45bb-a5ef-ed78c501c77f.png)
 
